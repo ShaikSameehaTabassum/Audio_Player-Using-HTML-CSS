@@ -29,9 +29,10 @@ Share and enjoy your music with the added convenience of direct downloads.
 # Demo:
 Explore the live demo here to experience the audio player in action.
 
-![image](https://github.com/ShaikSameehaTabassum/Audio_Player-Using-HTML-CSS/assets/83460032/87f7209e-9573-4b38-adf1-a31415196eb7)
+![image](https://github.com/ShaikSameehaTabassum/Audio_Player-Using-HTML-CSS/assets/83460032/87f7209e-9573-4b38-adf1-a31415196eb7)      ![image](https://github.com/ShaikSameehaTabassum/Audio_Player-Using-HTML-CSS/assets/83460032/2a3b2215-3aec-450d-8abc-a339e049e253)
 
-![image](https://github.com/ShaikSameehaTabassum/Audio_Player-Using-HTML-CSS/assets/83460032/2a3b2215-3aec-450d-8abc-a339e049e253)
+
+
 
 
 
