@@ -5,15 +5,15 @@ This player not only allows you to enjoy your favorite tunes with basic playback
 
 # Key Features:
 
-Sleek Design: Enjoy an aesthetically pleasing and intuitive user interface.
+1.Sleek Design: Enjoy an aesthetically pleasing and intuitive user interface.
 
-Playback Controls: Play, pause, adjust volume, and track progress seamlessly.
+2.Playback Controls: Play, pause, adjust volume, and track progress seamlessly.
 
-Download Functionality: Easily download your favorite songs directly from the player.
+3.Download Functionality: Easily download your favorite songs directly from the player.
 
-Responsive Layout: Ensures optimal viewing and usage across various devices.
+4.Responsive Layout: Ensures optimal viewing and usage across various devices.
 
-Compatibility: Supports a wide range of audio file formats for hassle-free listening.
+5.Compatibility: Supports a wide range of audio file formats for hassle-free listening.
 
 
 # Usage:
