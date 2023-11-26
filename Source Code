@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML/CSS Modern Music Player</title>
+  <style>
+
+    body {
+      background: linear-gradient(90deg, #0cf2df81, #4777df, #52fda2);
+      background-size: 200% 200%;
+      animation: gradientAnimation 10s ease infinite;
+    }
+
+    @keyframes gradientAnimation {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
+    }
+
+    audio::-webkit-media-controls-time-remaining-display,
+    audio::-webkit-media-controls-current-time-display {
+      font-size: 12px;
+    }
+
+    audio, .player-box {
+      width: 100%;
+    }
+
+    .player-box {
+      width: 300px;
+      margin: 80px auto 0;
+      box-shadow: 2px 3px 2px 1px #ccc;
+      border-radius: 10px;
+      padding: 10px;
+      background-color: black;
+      text-align: center; /* Center the content within the box */
+      color: white; /* Set text color to white */
+    }
+
+    #track-img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 10px;
+      border-radius: 5px;
+    }
+
+    .description {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 style="text-align:center;font-family:cursive">AUDIO-PLAYER</h1>
+  <div class="player-box">
+
+    <div class="player-img">
+      <img src="https://bit.ly/3AteiOL" id="track-img" alt="Track Image"/>
+    </div>
+
+    <div class="player-controls">
+      <audio src="https://bit.ly/3v8yOn2" controls>Your browser does not support the audio element.</audio>
+    </div>
+
+    <p class="description">
+      Enjoy listening to your favorite music with our modern audio player. Simply press play and immerse yourself in the world of sound.
+    </p>
+
+  </div>
+
+</body>
+</html>
+
