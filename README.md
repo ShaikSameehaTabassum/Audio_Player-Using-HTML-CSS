@@ -3,7 +3,7 @@ Welcome to the HTML & CSS Audio Player, a lightweight and stylish web-based musi
 
 This player not only allows you to enjoy your favorite tunes with basic playback controls but also provides the convenience of downloading songs directly from the interface.
 
-Key Features:
+# Key Features:
 
 Sleek Design: Enjoy an aesthetically pleasing and intuitive user interface.
 
