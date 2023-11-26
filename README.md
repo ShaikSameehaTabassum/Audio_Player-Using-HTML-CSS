@@ -28,6 +28,7 @@ Share and enjoy your music with the added convenience of direct downloads.
 
 # Demo:
 Explore the live demo here to experience the audio player in action.
+
 ![image](https://github.com/ShaikSameehaTabassum/Audio_Player-Using-HTML-CSS/assets/83460032/87f7209e-9573-4b38-adf1-a31415196eb7)
 
 ![WhatsApp Image 2023-11-26 at 13 52 55_9620d871](https://github.com/ShaikSameehaTabassum/Audio_Player-Using-HTML-CSS/assets/83460032/ad3826dc-6092-478f-8e28-c8b54ac69781)
